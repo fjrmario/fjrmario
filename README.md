@@ -5,7 +5,9 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=firdausang&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+ <a href="https://www.linkedin.com/in/firdaus-ang-282b15142/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="firdaus-ang-282b15142" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/firdaus-ang-282b15142?trk=profile-badge">Firdaus Ang</a></div>
