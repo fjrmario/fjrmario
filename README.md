@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 - I’m currently seeking a job in Web Development! 👀
 - I’m currently learning Java 📝
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/firdaus-ang-282b15142/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-firdausang-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/firdaus-ang-282b15142/) 🫡
 
 
 
