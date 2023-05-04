@@ -8,7 +8,7 @@
  <a href="https://www.linkedin.com/in/firdaus-ang-282b15142/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=fjrmario&style=plastic&color=brightgreen" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=fjrmario&style=plastic&color=blue" alt=""/>
 </div>
 
               
